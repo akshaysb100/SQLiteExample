@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name" type="id"/>
+    <item name="age" type="id"/>
+    <item name="email" type="id"/>
+    <item name="btnAdd" type="id"/>
+    <item name="btnDelete" type="id"/>
+    <item name="btnUpdate" type="id"/>
+</resources>
